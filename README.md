@@ -1,4 +1,4 @@
-## Oi eu me chamo Ycaro Cabral, sou analista e desenvolvedor de sistemas!
+## Oi eu me chamo Ycaro Cabral, sou Desenvolvedor Front-End.
 
 
 
