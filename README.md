@@ -1,14 +1,13 @@
-💻 Desenvolvedor Front-End focado em criar produtos digitais escaláveis
-⚡ Especialista em interfaces modernas e experiência do usuário
-🧠 Construindo soluções com foco em SaaS, dashboards e automação com IA
+💻 Desenvolvedor Front-End focado em criar produtos digitais escaláveis<br>
+⚡ Especialista em interfaces modernas e experiência do usuário<br>
+🧠 Construindo soluções com foco em SaaS, dashboards e automação com IA<br>
 
 
-⚡ Atividade
 🧩 Atualmente focado em
 
-🚀 Desenvolvimento de produtos SaaS
-🤖 Integração com Inteligência Artificial
-📊 Interfaces modernas e performáticas
+🚀 Desenvolvimento de produtos SaaS<br>
+🤖 Integração com Inteligência Artificial<br>
+📊 Interfaces modernas e performáticas<br>
 
   ##
  
